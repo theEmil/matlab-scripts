@@ -2,7 +2,7 @@
 % x - x-axis values
 % y - y-axis values to fit to
 % n - polynomial degree of fit
-% silent - supress output of functional equation, default is to output the equation
+% silent - supress output of functional equation, default is to output the equation (0)
 function Result = calcPolyfit(x, y, n, silent)
     if ~exist('silent','var')
         silent = 0;
