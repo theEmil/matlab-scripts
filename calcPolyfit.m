@@ -1,3 +1,4 @@
+% a wrapper for the polyfit function that minimizes boilerplate code
 % x - x-axis values
 % y - y-axis values to fit to
 % n - polynomial degree of fit
