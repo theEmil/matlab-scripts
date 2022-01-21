@@ -1,2 +1,2 @@
-# matlab-scripts
-A collection of my Matlab-Scripts
+# scripts-libs
+A collection of scripts and libs
