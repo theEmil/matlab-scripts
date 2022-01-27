@@ -21,5 +21,5 @@ function Result = calcPolyfit(x, y, n, silent)
     end
     Result.x = x;
     Result.y = polyval(coefficient,x);
-    Result.coefficients = coefficient; %Output it
+    Result.coefficients = coefficient;
 end
